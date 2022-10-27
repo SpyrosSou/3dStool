@@ -20,6 +20,9 @@ surgical tools have been collected for now:
 An example of the manual masks is shown below for each tool:
 
 ![alt text](https://github.com/SpyrosSou/3dStool/blob/main/example_images/readme_images/scalpel.jpg?raw=true)
+![alt text](https://github.com/SpyrosSou/3dStool/blob/main/example_images/readme_images/scissors.jpg?raw=true)
+![alt text](https://github.com/SpyrosSou/3dStool/blob/main/example_images/readme_images/forceps.jpg?raw=true)
+![alt text](https://github.com/SpyrosSou/3dStool/blob/main/example_images/readme_images/burr.jpg?raw=true)
 
 TODO:
 
