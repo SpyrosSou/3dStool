@@ -1,7 +1,7 @@
 # 3dStool
 The 3D surgical tool dataset (3dStool) has been constructed with the aim of
 assisting the development of computer vision techniques that address the
-operating room.
+operating room. It can be downloaded [here](https://zenodo.org/record/7635563).
 
 Specifically, even though laparoscopic scenes have received a lot of attention
 in terms of labelled images, surgical tools that are used at initial stages of
@@ -52,9 +52,5 @@ matrix, K. The results of this are shown below:
 
 TODO:
 
-1. Add images of masks, boxes, pose
-2. Download link
-3. Instructions of helper functions etc
-4. Copy image handling functions from your project to folders
-5. MY FACE IS IN THE PICTURES??????????
-6. Check if q_real is first or last in csv
+1. Upload the code for visualisation, data handling etc
+2. Create instructions on use of code
