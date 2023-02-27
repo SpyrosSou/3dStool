@@ -1,3 +1,7 @@
+**Note that this repo is under construction, and data handling functions have not been added as of yet. 
+Functions for data handling, splitting, etc will be added and the raw data will be uploaded on Zenodo. 
+Until then, the prepared data are solely available using Zenodo.**
+
 # 3dStool
 The 3D surgical tool dataset (3dStool) has been constructed with the aim of
 assisting the development of computer vision techniques that address the
