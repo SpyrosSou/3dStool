@@ -1,1 +1,18 @@
-
+cff-version: 1.2.0
+message: "If you use this dataset of surgical tools in operation, please cite it as below."
+authors:
+- family-names: "Souipas"
+  given-names: "Spyridon"
+- family-names: "Nguyen"
+  given-names: "Anh"
+- family-names: "Laws"
+  given-names: "Stephen"
+- family-names: "Davies"
+  given-names: "Brian"
+- family-names: "Rodriguez Y Baena"
+  given-names: "Ferdinando"
+title: "3dStool - A 3D Surgical Tool dataset for detection and pose estimation"
+version: 1.0.0
+doi: 10.5281/zenodo.7635563
+date-released: February 13, 2023
+url: "https://github.com/SpyrosSou/3dStool"
